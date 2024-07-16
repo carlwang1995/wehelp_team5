@@ -255,6 +255,16 @@ function getTaiwainRain() {
           graphData[0]["降雨"]["過去48-72小時"],
         ];
         paintGraph(graphDataRain, "連江縣"); // Call paintGraph with the filtered data
+      } else if (e.target.getAttribute("data-name") === "path2527") {
+        let graphData = data.data.filter(
+          (city) => city["縣市名稱"] === "蘭嶼鄉"
+        );
+        let graphDataRain = [
+          graphData[0]["降雨"]["過去24小時"],
+          graphData[0]["降雨"]["過去24-48小時"],
+          graphData[0]["降雨"]["過去48-72小時"],
+        ];
+        paintGraph(graphDataRain, "蘭嶼鄉"); // Call paintGraph with the filtered data
       }
     });
   });
