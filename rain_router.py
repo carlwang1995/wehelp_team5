@@ -31,6 +31,10 @@ def fetch_cwa_rain_data():
                 json_data = res.json()
                 result = {}
                 for station in json_data["records"]["Station"]:
+                    # 蘭嶼鄉要獨立出來：比對到"蘭嶼鄉"+"台東縣"的話，把CountyName改為"蘭嶼鄉"覆蓋過去(TownName維持"蘭嶼鄉")
+                    if station["GeoInfo"]["TownName"] == "蘭嶼鄉" and station["GeoInfo"]["CountyName"] == "臺東縣":
+                        station["GeoInfo"]["CountyName"] = "蘭嶼鄉"
+
                     if station["GeoInfo"]["CountyName"] not in result:
                         result[station["GeoInfo"]["CountyName"]] = {}
                         result[station["GeoInfo"]
