@@ -20,10 +20,10 @@ def fetch_cwa_rain_data():
                        headers={"accept": "application/json"})
 
     if res.status_code == 200:
-        print("Request success!")
+        print("[fetch_cwa_rain_data] Rain data request success!")
 
         if not bool(res.json()):
-            print("Response JSON is empty")
+            print("[fetch_cwa_rain_data] Rain data response JSON is empty")
             return {"error": True, "message": "取得氣象局資料成功，但氣象局資料response為空"}
 
         else:
@@ -66,6 +66,7 @@ def fetch_cwa_rain_data():
                         result[county]["stationCount"]
                     output["data"].append(county_result)
 
+                print("[fetch_cwa_rain_data] Rain data parse success!")
                 return output
 
             except Exception:
@@ -77,6 +78,6 @@ def fetch_cwa_rain_data():
         return {"error": True, "message": "取得氣象局資料錯誤，請到後端查詢錯誤資訊"}
 
 
-@router.get("/")
+@router.get("")
 async def get_rain_data():
     return fetch_cwa_rain_data()
