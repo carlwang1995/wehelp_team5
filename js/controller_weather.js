@@ -1,6 +1,6 @@
 import { displayDefaultWeather, displaySelectWeather } from "./view_weather.js";
 
-const weatherURL = "data.json";
+const weatherURL = "/api/weather";
 
 document.addEventListener("DOMContentLoaded", () => {
   fetchWeatherData();

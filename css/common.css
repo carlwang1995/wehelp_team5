@@ -8,25 +8,8 @@ body {
   overflow-y: auto;
 }
 
-.titles {
-  font-size: 2em;
-  font-weight: 700;
-  width: 100%;
-  padding: 20px 10px 20px 10px;
-}
-
-.titles_second {
-  font-size: 1em;
-  font-weight: 500;
-  padding: 5px;
-  margin: 5px;
-  border: 1px solid black;
-  border-radius: 5px;
-  width: fit-content;
-}
-
 header {
-  height: 60px;
+  height: 80px;
   position: fixed;
   width: 100%;
   z-index: 500;
@@ -37,10 +20,30 @@ header {
   color: white;
   font-size: 36px;
   box-sizing: border-box;
+  background-color: #3066be;
+}
+
+.titles {
+  font-size: 2em;
+  font-weight: 600;
+  width: 100%;
+  padding: 20px 10px 20px 10px;
+  color: #001c55;
+}
+
+.titles_second {
+  font-size: 1.1em;
+  font-weight: 500;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+  width: fit-content;
+  background-color: #a6e1fa;
+  color: #26547c;
 }
 
 #header_box {
-  height: 60px;
+  height: 80px;
   width: 100%;
 }
 
@@ -53,14 +56,14 @@ main {
 
 hr {
   margin: 20px 0px 20px 0px;
-  border-color: rgb(240, 240, 240);
+  border: 1px solid #d8dbe2;
 }
 
 footer {
-  height: 50px;
+  height: 60px;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(87, 87, 87);
   color: white;
+  background-color: #054a91;
 }

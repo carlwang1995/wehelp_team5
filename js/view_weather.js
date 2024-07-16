@@ -153,7 +153,7 @@ export function displayDefaultWeather(data) {
   // 預設顯示每個城市第一個預報
   data.data.forEach((city) => {
     if (city.forecast.length > 0) {
-      const forecast = city.forecast[1];
+      const forecast = city.forecast[0];
 
       const forecastDiv = document.createElement("div");
       forecastDiv.className = "weather_info";
