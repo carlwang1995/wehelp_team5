@@ -8,7 +8,6 @@ async function fetchRainData() {
     return data;
   } catch (error) {
     console.error("Fetch error:", error);
-    document.getElementById("rain-data").innerText = "無法獲取雨量數據。";
   }
 }
 
