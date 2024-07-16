@@ -1,0 +1,533 @@
+{
+  "success": true,
+  "data": [
+    {
+      "location": "嘉義縣",
+      "forecast": [
+        {
+          "timePeriod": {
+            "start": "2024-07-15 18:00:00",
+            "end": "2024-07-16 06:00:00"
+          },
+          "weather": "多雲短暫陣雨",
+          "temperature": {
+            "min": 25,
+            "max": 30
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 30
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 06:00:00",
+            "end": "2024-07-16 18:00:00"
+          },
+          "weather": "晴午後短暫雷陣雨",
+          "temperature": {
+            "min": 26,
+            "max": 32
+          },
+          "comfortIndex": "舒適至易中暑",
+          "precipitationProbability": 40
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 18:00:00",
+            "end": "2024-07-17 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 24,
+            "max": 31
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 20
+        }
+      ]
+    },
+    {
+      "location": "新北市",
+      "forecast": [
+        {
+          "timePeriod": {
+            "start": "2024-07-15 18:00:00",
+            "end": "2024-07-16 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 26,
+            "max": 31
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 06:00:00",
+            "end": "2024-07-16 18:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 26,
+            "max": 32
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 18:00:00",
+            "end": "2024-07-17 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 25,
+            "max": 30
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        }
+      ]
+    },
+    {
+      "location": "新竹縣",
+      "forecast": [
+        {
+          "timePeriod": {
+            "start": "2024-07-15 18:00:00",
+            "end": "2024-07-16 06:00:00"
+          },
+          "weather": "多雲時晴",
+          "temperature": {
+            "min": 24,
+            "max": 31
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 06:00:00",
+            "end": "2024-07-16 18:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 26,
+            "max": 33
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 18:00:00",
+            "end": "2024-07-17 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 25,
+            "max": 30
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        }
+      ]
+    },
+    {
+      "location": "新竹市",
+      "forecast": [
+        {
+          "timePeriod": {
+            "start": "2024-07-15 18:00:00",
+            "end": "2024-07-16 06:00:00"
+          },
+          "weather": "多雲時晴",
+          "temperature": {
+            "min": 24,
+            "max": 31
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 06:00:00",
+            "end": "2024-07-16 18:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 26,
+            "max": 33
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 18:00:00",
+            "end": "2024-07-17 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 25,
+            "max": 30
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        }
+      ]
+    },
+    {
+      "location": "臺中市",
+      "forecast": [
+        {
+          "timePeriod": {
+            "start": "2024-07-15 18:00:00",
+            "end": "2024-07-16 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 25,
+            "max": 31
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 06:00:00",
+            "end": "2024-07-16 18:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 26,
+            "max": 32
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 18:00:00",
+            "end": "2024-07-17 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 24,
+            "max": 30
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        }
+      ]
+    },
+    {
+      "location": "高雄市",
+      "forecast": [
+        {
+          "timePeriod": {
+            "start": "2024-07-15 18:00:00",
+            "end": "2024-07-16 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 26,
+            "max": 32
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 06:00:00",
+            "end": "2024-07-16 18:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 27,
+            "max": 33
+          },
+          "comfortIndex": "舒適至易中暑",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 18:00:00",
+            "end": "2024-07-17 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 25,
+            "max": 31
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        }
+      ]
+    },
+    {
+      "location": "屏東縣",
+      "forecast": [
+        {
+          "timePeriod": {
+            "start": "2024-07-15 18:00:00",
+            "end": "2024-07-16 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 26,
+            "max": 32
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 06:00:00",
+            "end": "2024-07-16 18:00:00"
+          },
+          "weather": "晴午後短暫雷陣雨",
+          "temperature": {
+            "min": 27,
+            "max": 33
+          },
+          "comfortIndex": "舒適至易中暑",
+          "precipitationProbability": 40
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 18:00:00",
+            "end": "2024-07-17 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 25,
+            "max": 30
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        }
+      ]
+    },
+    {
+      "location": "台東縣",
+      "forecast": [
+        {
+          "timePeriod": {
+            "start": "2024-07-15 18:00:00",
+            "end": "2024-07-16 06:00:00"
+          },
+          "weather": "多雲短暫陣雨",
+          "temperature": {
+            "min": 24,
+            "max": 30
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 30
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 06:00:00",
+            "end": "2024-07-16 18:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 25,
+            "max": 32
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 18:00:00",
+            "end": "2024-07-17 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 23,
+            "max": 29
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        }
+      ]
+    },
+    {
+      "location": "澎湖縣",
+      "forecast": [
+        {
+          "timePeriod": {
+            "start": "2024-07-15 18:00:00",
+            "end": "2024-07-16 06:00:00"
+          },
+          "weather": "多雲短暫陣雨",
+          "temperature": {
+            "min": 25,
+            "max": 30
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 30
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 06:00:00",
+            "end": "2024-07-16 18:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 26,
+            "max": 31
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 18:00:00",
+            "end": "2024-07-17 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 24,
+            "max": 29
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        }
+      ]
+    },
+    {
+      "location": "基隆市",
+      "forecast": [
+        {
+          "timePeriod": {
+            "start": "2024-07-15 18:00:00",
+            "end": "2024-07-16 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 24,
+            "max": 30
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 06:00:00",
+            "end": "2024-07-16 18:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 25,
+            "max": 31
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 18:00:00",
+            "end": "2024-07-17 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 23,
+            "max": 28
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        }
+      ]
+    },
+    {
+      "location": "金門縣",
+      "forecast": [
+        {
+          "timePeriod": {
+            "start": "2024-07-15 18:00:00",
+            "end": "2024-07-16 06:00:00"
+          },
+          "weather": "多雲時晴",
+          "temperature": {
+            "min": 25,
+            "max": 31
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 20
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 06:00:00",
+            "end": "2024-07-16 18:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 26,
+            "max": 32
+          },
+          "comfortIndex": "舒適至悶熱",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 18:00:00",
+            "end": "2024-07-17 06:00:00"
+          },
+          "weather": "多雲短暫陣雨",
+          "temperature": {
+            "min": 24,
+            "max": 29
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 30
+        }
+      ]
+    },
+    {
+      "location": "連江縣",
+      "forecast": [
+        {
+          "timePeriod": {
+            "start": "2024-07-15 18:00:00",
+            "end": "2024-07-16 06:00:00"
+          },
+          "weather": "多雲時陰",
+          "temperature": {
+            "min": 23,
+            "max": 28
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 20
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 06:00:00",
+            "end": "2024-07-16 18:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 24,
+            "max": 29
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        },
+        {
+          "timePeriod": {
+            "start": "2024-07-16 18:00:00",
+            "end": "2024-07-17 06:00:00"
+          },
+          "weather": "晴時多雲",
+          "temperature": {
+            "min": 22,
+            "max": 27
+          },
+          "comfortIndex": "舒適",
+          "precipitationProbability": 10
+        }
+      ]
+    }
+  ]
+}
