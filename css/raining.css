@@ -2,9 +2,9 @@ svg {
   background-color: white;
 }
 path {
-  fill: white;
+  fill: #407076;
 
-  stroke: black;
+  stroke: white;
 
   stroke-width: 1px;
   cursor: pointer;
@@ -12,7 +12,7 @@ path {
 }
 
 path:hover {
-  fill: rgb(95, 255, 234);
+  fill: #c9c5ba;
   transform: translate(-5px, -5px);
 }
 
@@ -22,7 +22,7 @@ path:hover {
 
 #raining_content {
   display: flex;
-  height: fit-content;
+  height: 100%;
   width: 100%;
   box-sizing: border-box;
 }
@@ -30,11 +30,12 @@ path:hover {
 #raining_content_data {
   box-sizing: border-box;
   padding-left: 20px;
-  height: 100%;
   width: 65%;
 }
 
-#raining_content_data_graph {
-  height: 500px;
-  /* background-color: rgb(222, 222, 222); */
+canvas {
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px rgb(118, 118, 118);
 }

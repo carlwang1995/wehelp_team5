@@ -7,6 +7,8 @@
 
 #weather_time_selector {
   display: flex;
+  height: 60px;
+  margin-bottom: 5px;
 }
 
 .time_selector {
@@ -15,15 +17,20 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 1px solid black;
-  height: 2rem;
+  border: 1px solid white;
   box-sizing: border-box;
   transition: 0.3s ease;
+  background-color: #7daa92;
+  color: white;
 }
 
 .time_selector:hover {
   cursor: pointer;
+  border-radius: 10px;
   transform: translate(-5px, -5px);
+  background-color: #c2fbef;
+  color: black;
+  box-shadow: 5px 5px 10px rgb(118, 118, 118);
 }
 
 #weather_time_current {
@@ -31,9 +38,11 @@
   justify-content: center;
   align-items: center;
   width: 1200px;
-  border: 1px solid black;
+  border: 1px solid white;
+  background-color: #d0c88e;
   box-sizing: border-box;
   padding: 5px 0px 5px 0px;
+  margin-bottom: 5px;
 }
 
 #weather_info_box {
@@ -43,13 +52,14 @@
 }
 
 .weather_info {
-  border: 1px solid black;
-  height: 40px;
+  border: 1.5px solid white;
+  height: 60px;
   width: 400px;
   box-sizing: border-box;
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #edeec0;
 }
 
 .info {
