@@ -3,7 +3,7 @@
 * [團隊分工](https://github.com/carlwang1995/wehelp_team5?tab=readme-ov-file#%E4%B8%80%E5%9C%98%E9%9A%8A%E5%88%86%E5%B7%A5)
 * [成果展示](https://github.com/carlwang1995/wehelp_team5?tab=readme-ov-file#%E4%BA%8C%E6%88%90%E6%9E%9C%E5%B1%95%E7%A4%BA)
 
-## 一、團隊分工
+## 團隊分工
 ### 組長：王維耀
 * 負責Host專案
 * index.html排版規劃、CSS樣式處理
@@ -26,7 +26,7 @@
 * Fetch氣象局Opendata API，取得並依前端需求整理資料
 * 與前端溝通API需回傳的資料格式
  
-## 二、成果展示
+## 成果展示
 ### 網站連結：[第五組－全臺雨量觀測及氣象預報](http://35.155.26.96:8000/)
 * 功能一：全臺過去三天雨量觀測值圖表產生
   * 點選左側臺灣地圖，生成對應行政區之觀測資料
