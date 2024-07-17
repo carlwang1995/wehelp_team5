@@ -1,7 +1,7 @@
 # 第五組團隊開發練習
 ## 目錄
-* [團隊分工](https://github.com/carlwang1995/wehelp_team5?tab=readme-ov-file#%E4%B8%80%E5%9C%98%E9%9A%8A%E5%88%86%E5%B7%A5)
-* [成果展示](https://github.com/carlwang1995/wehelp_team5?tab=readme-ov-file#%E4%BA%8C%E6%88%90%E6%9E%9C%E5%B1%95%E7%A4%BA)
+* [團隊分工](https://github.com/carlwang1995/wehelp_team5?tab=readme-ov-file#%E5%9C%98%E9%9A%8A%E5%88%86%E5%B7%A5)
+* [成果展示](https://github.com/carlwang1995/wehelp_team5?tab=readme-ov-file#%E6%88%90%E6%9E%9C%E5%B1%95%E7%A4%BA)
 
 ## 團隊分工
 ### 組長：王維耀
